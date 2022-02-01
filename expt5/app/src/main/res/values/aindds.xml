@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ainddssem1">
+        <item>Artificial Intelligence - I</item>
+        <item>Big Data - I</item>
+        <item>Data Structures -I</item>
+        <item>Algorithm - I</item>
+        <item>Physics - I</item>
+    </string-array>
+    <string-array name="ainddssem2">
+        <item>Artificial Intelligence - II</item>
+        <item>Big Data - II</item>
+        <item>Data Structures -II</item>
+        <item>Algorithm - II</item>
+        <item>Physics - II</item>
+    </string-array>
+    <string-array name="ainddssem3">
+        <item>Artificial Intelligence - III</item>
+        <item>Big Data - III</item>
+        <item>Data Structures -III</item>
+        <item>Algorithm - III</item>
+        <item>Physics - III</item>
+    </string-array>
+    <string-array name="ainddssem4">
+        <item>Artificial Intelligence - IV</item>
+        <item>Big Data - IV</item>
+        <item>Data Structures -IV</item>
+        <item>Algorithm - IV</item>
+        <item>Physics - IV</item>
+    </string-array>
+    <string-array name="ainddssem5">
+        <item>Artificial Intelligence - V</item>
+        <item>Big Data - V</item>
+        <item>Data Structures -V</item>
+        <item>Algorithm - V</item>
+        <item>Physics - V</item>
+    </string-array>
+    <string-array name="ainddssem6">
+        <item>Artificial Intelligence - VI</item>
+        <item>Big Data - VI</item>
+        <item>Data Structures - VI</item>
+        <item>Algorithm -  VI</item>
+        <item>Physics -  VI</item>
+    </string-array>
+    <string-array name="ainddssem7">
+        <item>Artificial Intelligence - VII</item>
+        <item>Big Data - VII</item>
+        <item>Data Structures -VII</item>
+        <item>Algorithm - VII</item>
+        <item>Physics - VII</item>
+    </string-array>
+    <string-array name="ainddssem8">
+        <item>Artificial Intelligence - VIII</item>
+        <item>Big Data - VIII</item>
+        <item>Data Structures -VIII</item>
+        <item>Algorithm - VIII</item>
+        <item>Physics - VIII</item>
+    </string-array>
+</resources>

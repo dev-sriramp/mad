@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ecesem1">
+        <item>Applied Mathematics - I</item>
+        <item>Applied Physics - I</item>
+        <item>Applied Chemistry - I</item>
+        <item>Engineering Mechanics</item>
+        <item>Electrical Sciene</item>
+        <item>Communication Skill - I</item>
+    </string-array>
+    <string-array name="ecesem2">
+        <item>Analog Electronics</item>
+        <item>Circuits &amp; Systems</item>
+        <item>Electrical Engineering Materials</item>
+        <item>Electro Mechanical Energy Conservation</item>
+        <item>Data Structures</item>
+    </string-array>
+    <string-array name="ecesem3">
+            <item>Analog Electronics</item>
+            <item>Power Station Practice</item>
+            <item>Power Systems</item>
+            <item>Cntrol Engineering</item>
+            <item>Control Engineering</item>
+    </string-array>
+    <string-array name="ecesem4">
+        <item>Environmental Studies</item>
+        <item>Automata Theorey</item>
+        <item>Design analysis of Algorithms</item>
+        <item>Logic Design</item>
+        <item>Software System Lab</item>
+        <item>Logic Design Lab</item>
+    </string-array>
+    <string-array name="ecesem5">
+        <item>Physology</item>
+        <item>Computer Architecture</item>
+        <item>Operating Systems</item>
+        <item>Database</item>
+        <item>Database Lab</item>
+        <item>Computer Architecture Lab</item>
+        <item>Operating Systems Lab</item>
+    </string-array>
+    <string-array name="ecesem6">
+        <item>Applied Mathematics - II</item>
+        <item>Applied Physics - II</item>
+        <item>Applied Chemistry - II</item>
+        <item>Engineering Mechanics</item>
+        <item>Electrical Sciene</item>
+        <item>Communication Skill - II</item>
+    </string-array>
+</resources>

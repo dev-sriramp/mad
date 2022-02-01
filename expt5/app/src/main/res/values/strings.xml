@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">expt5</string>
+    <string name="welcome">Welcome !</string>
+    <string name="button">Show</string>
+    <string name="dept">Select an department</string>
+    <string-array name="allDepts">
+        <item />
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>BME</item>
+        <item>AI&amp;DS</item>
+    </string-array>
+    <string-array name="cse">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+    </string-array>
+    <string-array name="ece">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+    </string-array>
+    <string-array name="eee">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+    </string-array>
+    <string-array name="mech">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+    </string-array>
+    <string-array name="civil">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+
+    </string-array>
+    <string-array name="bme">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+        <item>sem7</item>
+    </string-array>
+    <string-array name="aindds">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+        <item>sem7</item>
+        <item>sem8</item>
+    </string-array>
+</resources>

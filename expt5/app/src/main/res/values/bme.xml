@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bmesem1">
+        <item>Medical - I</item>
+        <item>Bio Medical - I</item>
+        <item>Biology - I</item>
+        <item>Physics - I</item>
+        <item>Chemistry - I</item>
+        
+    </string-array>
+    <string-array name="bmesem2">
+        <item>Medical - II</item>
+        <item>Bio Medical - II</item>
+        <item>Biology - II</item>
+        <item>Physics - II</item>
+        <item>Chemistry - II</item>
+        
+    </string-array>
+    <string-array name="bmesem3">
+        <item>Medical - III</item>
+        <item>Bio Medical - III</item>
+        <item>Biology - III</item>
+        <item>Physics - III</item>
+        <item>Chemistry - III</item>
+        
+    </string-array>
+    <string-array name="bmesem4">
+        <item>Medical - IV</item>
+        <item>Bio Medical - IV</item>
+        <item>Biology - IV</item>
+        <item>Physics - IV</item>
+        <item>Chemistry - IV</item>
+        
+    </string-array>
+    <string-array name="bmesem5">
+        <item>Medical - V</item>
+        <item>Bio MEdical - V</item>
+        <item>Biology - V</item>
+        <item>Physics - V</item>
+        <item>Chemistry - V</item>
+        
+    </string-array>
+    <string-array name="bmesem6">
+        <item>Medical - VI</item>
+        <item>Bio MEdical - VI</item>
+        <item>Biology - VI</item>
+        <item>Physics - VI</item>
+        <item>Chemistry - VI</item>
+        
+    </string-array>
+    <string-array name="bmesem7">
+        <item>Medical - VII</item>
+        <item>Bio MEdical - VII</item>
+        <item>Biology - VII</item>
+        <item>Physics - VII</item>
+        <item>Chemistry - VII</item>
+        
+    </string-array>
+</resources>

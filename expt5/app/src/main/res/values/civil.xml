@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="civilsem1">
+        <item>Autocad - I</item>
+        <item>engineering Graphics - I</item>
+        <item>Chemistry - I</item>
+        <item>Physics - I</item>
+        <item>Mths _ I</item>
+
+    </string-array>
+    <string-array name="civilsem2">
+        <item>Autocad - II</item>
+        <item>engineering Graphics - II</item>
+        <item>Chemistry - II</item>
+        <item>Physics - II</item>
+        <item>Mths _ II</item>
+
+    </string-array>
+    <string-array name="civilsem3">
+        <item>Autocad - III</item>
+        <item>engineering Graphics - III</item>
+        <item>Chemistry - III</item>
+        <item>Physics - III</item>
+        <item>Mths _ III</item>
+
+    </string-array>
+    <string-array name="civilsem4">
+        <item>Autocad - IV</item>
+        <item>engineering Graphics - IV</item>
+        <item>Chemistry - IV</item>
+        <item>Physics - IV</item>
+        <item>Mths _ IV</item>
+    </string-array>
+    <string-array name="civilsem5">
+        <item>Autocad - V</item>
+        <item>engineering Graphics - V</item>
+        <item>Chemistry - V</item>
+        <item>Physics - V</item>
+        <item>Mths _ V</item>
+
+    </string-array>
+
+</resources>

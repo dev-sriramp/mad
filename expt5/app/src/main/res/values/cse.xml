@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="csesem1">
+        <item>Calculus</item>
+        <item>Chemistry 1</item>
+        <item>Introduction to Computer Programming</item>
+        <item>Phhysics</item>
+        <item>Chemistry Lab</item>
+        <item>workshop Practice</item>
+    </string-array>
+    <string-array name="csesem2">
+        <item>Linear Algebra and differential Equations</item>
+        <item>Modern Physics</item>
+        <item>Data nAnalytics</item>
+        <item>Programming Paradigms</item>
+        <item>Physics Lab</item>
+        <item>Engineering Graphics</item>
+    </string-array>
+    <string-array name="csesem3">
+        <item>Numberical Analysis</item>
+        <item>Electroncs Circuit</item>
+        <item>Discrete Structures</item>
+        <item>Data Structure and Algorithm</item>
+        <item>Measurement Lab</item>
+        <item>Data Structure and Algorithm Lab</item>
+    </string-array>
+    <string-array name="csesem4">
+        <item>Environmental Studies</item>
+        <item>Automata Theorey</item>
+        <item>Design analysis of Algorithms</item>
+        <item>Logic Design</item>
+        <item>Software System Lab</item>
+        <item>Logic Design Lab</item>
+    </string-array>
+    <string-array name="csesem5">
+        <item>Physology</item>
+        <item>Computer Architecture</item>
+        <item>Operating Systems</item>
+        <item>Database</item>
+        <item>Database Lab</item>
+        <item>Computer Architecture Lab</item>
+        <item>Operating Systems Lab</item>
+    </string-array>
+    <string-array name="csesem6">
+        <item>Artificial Intelligence</item>
+        <item>Implementation of Programming Languages</item>
+        <item>Computer Networks</item>
+        <item>Artificial Intelligence Lab</item>
+        <item>Implementation of Programming Languages Lab</item>
+        <item>computer Networks Lab</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mechsem1">
+       <item>Machie - I</item>
+        <item>House Mechanics - I</item>
+        <item>Industry Machine - I</item>
+        <item>Vehicles - I</item>
+        <item>Robotics - I</item>
+    </string-array>
+    <string-array name="mechsem2">
+        <item>Machie - II</item>
+        <item>House Mechanics - II</item>
+        <item>Industry Machine - II</item>
+        <item>Vehicles - II</item>
+        <item>Robotics - II</item>
+    </string-array>
+    <string-array name="mechsem3">
+        <item>Machie - III</item>
+        <item>House Mechanics - III</item>
+        <item>Industry Machine - III</item>
+        <item>Vehicles - III</item>
+        <item>Robotics - III</item>
+    </string-array>
+    <string-array name="mechsem4">
+        <item>Machie - IV</item>
+        <item>House Mechanics - IV</item>
+        <item>Industry Machine - IV</item>
+        <item>Vehicles - IV</item>
+        <item>Robotics - IV</item>
+    </string-array>
+    <string-array name="mechsem5">
+        <item>Machie - V</item>
+        <item>House Mechanics - V</item>
+        <item>Industry Machine - V</item>
+        <item>Vehicles - V</item>
+        <item>Robotics - V</item>
+    </string-array>
+    <string-array name="mechsem6">
+        <item>Machie - VI</item>
+        <item>House Mechanics - VI</item>
+        <item>Industry Machine - VI</item>
+        <item>Vehicles - VI</item>
+        <item>Robotics - VI</item>
+    </string-array>
+</resources>

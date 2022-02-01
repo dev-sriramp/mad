@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eeesem1">
+        <item>Applied Mathematics - I</item>
+        <item>Applied Physics - I</item>
+        <item>Applied Chemistry - I</item>
+        <item>Manufacturing Process</item>
+        <item>Autocad</item>
+        <item>Communication Skill - I</item>
+    </string-array>
+    <string-array name="eeesem2">
+        <item>Applied Mathematics - II</item>
+        <item>Applied Physics - II</item>
+        <item>Applied Chemistry - II</item>
+        <item>Engineering Mechanics</item>
+        <item>Electrical Sciene</item>
+        <item>Communication Skill - II</item>
+    </string-array>
+    <string-array name="eeesem3">
+        <item>Analog Electronics</item>
+        <item>Circuits &amp; Systems</item>
+        <item>Electrical Engineering Materials</item>
+        <item>Electro Mechanical Energy Conservation</item>
+        <item>Data Structures</item>
+
+    </string-array>
+    <string-array name="eeesem4">
+        <item>Analog Electronics</item>
+        <item>Power Station Practice</item>
+        <item>Power Systems</item>
+        <item>Cntrol Engineering</item>
+        <item>Control Engineering</item>
+
+    </string-array>
+
+</resources>
