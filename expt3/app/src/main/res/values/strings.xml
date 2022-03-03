@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">expt3</string>
+    <string name="Message">Message</string>
+    <string name="mobileno">Mobile Number</string>
+    <string name="msg">Message</string>
+    <string name="send_sms">Send</string>
+    <string name="call">Call </string>
+    <string name="surf">Surf</string>
+    <string name="url">URL</string>
+</resources>
