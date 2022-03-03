@@ -24,8 +24,9 @@ public class Browser extends AppCompatActivity {
                 if (!url.startsWith("https://") && !url.startsWith("http://")){
                     url = "http://" + url;
                 }
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-                startActivity(Intent.createChooser(intent, "Browse with"));
+                Intent intent = new Intent(Intent.ACTION_VIEW);
+                intent.setData(Uri.parse(url));
+                startActivity(intent);
             }
         });
     }
